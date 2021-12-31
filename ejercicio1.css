@@ -1,0 +1,57 @@
+.boton1 {
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: rgb(223, 2, 2);
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.boton2 {
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: rgb(71, 255, 15);
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.boton3 {
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: rgb(255, 42, 219);
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.alternar {
+    background: rgb(238, 255, 5);
+}
+
+.alternar.activo {
+    background: rgb(0, 0, 0);
+    color: white;
+}
+.alternarr {
+    background: rgb(238, 255, 5);
+}
+
+.alternarr.activo {
+    background: rgb(122, 30, 30);
+    color: white;
+
+}.alternarrr {
+    background: rgb(238, 255, 5);
+}
+
+.alternarrr.activo {
+    background: rgb(113, 210, 255);
+    color: rgb(0, 0, 0);
+}
